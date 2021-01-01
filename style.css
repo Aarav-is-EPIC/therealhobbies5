@@ -1,0 +1,86 @@
+.line{
+    margin: 8px atuo;
+    height:5px;
+    width:100px;
+    background-color:#000;
+  }
+  body{
+  text-align:center;
+  background-color: cyan;
+  }
+  #epic1{
+    background: linear-gradient(#34ebde,#00ff37);
+    margin-bottom: 300px;
+    padding-bottom:50px;
+  
+  
+  }
+  #jeff{
+  width:150px;
+  border-radius:60%;
+    margin-bottom:50px;
+  padding-top:50px;
+    
+  }
+  html{
+    scroll-behavior:smooth;
+  }
+  .menu{
+    position:absolute;
+    font-family:sans-serif;
+    top:0px;
+    right:100px;
+    cursor:pointer;
+    list-style:none;
+    color:black;
+    z-index:10;
+  }
+  .link{
+    float:left;
+    padding-top:5px;
+    padding-right:0px;
+    padding-left:50px;
+    padding-bottom:10px;
+    font-family:cursive;
+    font-size:20px;
+    text-decoration:none;
+  
+  
+  }
+  #cr7{
+    width:150px;
+  border-radius:60%;
+    margin-bottom:50px;
+  padding-top:50px;
+  }
+  #s2{
+    background:turquoise;
+    margin-bottom: 300px;
+    padding-bottom:50px;
+  }
+  #s3{
+    background:gold;
+    margin-bottom: 300px;
+    padding-bottom:50px;
+  }
+  #s4{
+    background:crimson;
+    margin-bottom: 300px;
+    padding-bottom:50px;
+  }
+  #s5{
+    background:firebrick;
+    margin-bottom: 500px;
+    padding-bottom:50px;
+  }
+  #s6{
+    background:dodgerblue;
+    margin-bottom: 500px;
+    padding-bottom:50px;
+  }
+  #wait{
+    width:"400px"
+  }
+  .contact1 h3{
+    display:inline;
+  }
